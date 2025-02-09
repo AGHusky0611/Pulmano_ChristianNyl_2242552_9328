@@ -1,0 +1,32 @@
+<data>
+    <expression>
+        <operand1>5</operand1>
+        <operator>^</operator>
+        <operand2>2</operand2>
+    </expression>
+    <expression>
+        <operand1>12</operand1>
+        <operator>%</operator>
+        <operand2>5</operand2>
+    </expression>
+    <expression>
+        <operand1>5.2</operand1>
+        <operator>+</operator>
+        <operand2>2.x</operand2>
+    </expression>
+    <expression>
+        <operand1>23</operand1>
+        <operator>$</operator>
+        <operand2>2.5</operand2>
+    </expression>
+    <expression>
+        <operand1>23</operand1>
+        <operator>$</operator>
+        <operand2>2.5</operand2>
+    </expression>
+    <expression>
+        <operand1>23</operand1>
+        <operator>$</operator>
+        <operand2>2.5</operand2>
+    </expression>
+</data>
